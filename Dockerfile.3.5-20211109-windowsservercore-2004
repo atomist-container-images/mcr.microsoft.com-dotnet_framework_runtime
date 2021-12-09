@@ -1,0 +1,4 @@
+# Tags: 3.5-20211109-windowsservercore-2004
+FROM dotnet/framework/runtime:3.5-20211109-windowsservercore-2004
+FROM dotnet/framework/runtime:3.5-windowsservercore-2004
+FROM dotnet/framework/runtime:4.8-3.5-windowsservercore-2004
